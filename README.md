@@ -1,2 +1,33 @@
 # QuickMenu
-Create and edit server menus directly in-game with support for commands, player heads and hotkey access.
+
+QuickMenu is a lightweight GUI menu plugin for Minecraft servers.
+
+Create and edit menus directly in-game without touching configuration files.
+
+## Features
+
+- In-game menu editor
+- Command execution
+- Console command support
+- Player head support
+- Hotkey access (Shift + F)
+- Easy setup
+
+## Compatibility
+
+- Paper 1.21+
+- Java 21
+
+## Installation
+
+1. Download the latest release.
+2. Put the jar into your plugins folder.
+3. Restart the server.
+
+## Download
+
+Download the latest version from the Releases page.
+
+## Screenshots
+
+Coming soon.
