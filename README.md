@@ -28,10 +28,13 @@ QuickMenu focuses on simplicity by allowing menu creation and management entirel
 
 Whether you want to open a shop, teleport players, manage jobs, execute LuckPerms commands, or connect any other plugin command, QuickMenu lets you do it without leaving the game.
 
+
 ## Compatibility
 
-* Paper 1.21+
-* Java 21
+- Tested on Paper 1.21.11
+- Expected to work on most Paper 1.21.x versions
+- Java 21
+
 
 ## Installation
 
