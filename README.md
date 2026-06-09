@@ -1,3 +1,4 @@
+<img width="400" height="225" alt="2026-06-10 03-50-39" src="https://github.com/user-attachments/assets/f18a9646-6d9a-4443-b9a5-ce9a6b90fae2" />
 # QuickMenu
 
 QuickMenu is a lightweight GUI menu plugin for Minecraft servers.
